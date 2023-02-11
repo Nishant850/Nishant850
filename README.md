@@ -1,3 +1,6 @@
+[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://rishavchanda.io)
+<h1 align="center">Hi 👋, I'm Rishav Chanda</h1>
+<h3 align="center">A passionate frontend developer from India</h3>
 # 💫 About Me:
 🔭I'm currently working on full stack web development<br>🌱I'm currently  learning ML & AI<br>💬Ask me about MERN<br>📫 How to reach me choudharynishant850@gmail.com<br>⚡ Fun fact Chai tastes way better than Coffee | Change my mind!
 
