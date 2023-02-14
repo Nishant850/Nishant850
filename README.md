@@ -1,5 +1,4 @@
 
-![logo](https://tenor.com/en-GB/view/sad-aesthetic-i-need-sleep-gif-25547245)
 <h1 align="center">Hi 👋, I'm Nishant Chaudhary</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
