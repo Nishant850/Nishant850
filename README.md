@@ -35,6 +35,8 @@
 <br>
 <br>
 
+[![An image of @nishant850's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/nishant850)](https://holopin.io/@nishant850)
+
 ## 💻 Tech Stack:
 
 <p align="left">
